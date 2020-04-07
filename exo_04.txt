@@ -1,0 +1,1 @@
+Si on ne met pas les double quotes a la fin, ca n'affiche pas le texte.

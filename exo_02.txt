@@ -1,0 +1,1 @@
+Le print affiche tout les éléments sur la même ligne tandis que le puts affiche les élements en sautant des lignes

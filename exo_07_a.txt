@@ -1,0 +1,1 @@
+Le .chomp sert normalement a ne pas sauter de ligne, effacer l'espace en trop.

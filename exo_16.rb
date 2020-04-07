@@ -1,0 +1,1 @@
+puts "Il y a X ans, tu avais Y ans

@@ -1,0 +1,1 @@
+Si l'on met un # devant la ligne numéro 2, cette ligne est mise en commentaire. On peut aussi mettre une ligne en commentaire avec =begin et =end.

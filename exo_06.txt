@@ -1,0 +1,1 @@
+Le #{} sert a mettre des variables ou des nombres, n'importe quoi qui ne sois pas du texte dans une ligne de texte.
